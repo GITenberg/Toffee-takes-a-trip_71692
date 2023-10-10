@@ -1,5 +1,8 @@
 _repo: Toffee-takes-a-trip_71692
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71692-h/images/cover.jpg
 creator:
   author:
     agent_name: Farrell, Henry
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53188
     wikipedia: https://en.wikipedia.org/wiki/Henry_Farrell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71692#Toffee-takes-a-trip
 gutenberg_issued: '2023-09-20'
 identifiers:
   gutenberg: '71692'
